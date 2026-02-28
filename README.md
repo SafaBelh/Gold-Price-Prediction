@@ -126,6 +126,17 @@ Random Forest was chosen because:
 - ✔ Does not require feature scaling
 - ✔ Provides feature importance analysis
 
+### 🌲 Random Forest Overview
+
+The figure below illustrates how **Random Forest works**:
+
+![Random Forest Explained](images/random_forest.png)
+
+- Multiple **decision trees** are trained on random subsets of data.
+- Each tree predicts a value (regression).
+- The final prediction is the **average of all tree outputs**.
+- This ensemble approach reduces variance and improves accuracy.
+
 ---
 
 ## 🎓 Educational Concepts Covered
